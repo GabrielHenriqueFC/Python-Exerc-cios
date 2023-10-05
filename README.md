@@ -1,2 +1,2 @@
 # Python Exercícios
- exercícios de python
+Lista de Exercícios de Python Programação UNIESP
